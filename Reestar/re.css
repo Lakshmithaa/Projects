@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    padding:20px;
+}
+h1{
+    color: white;
+}
+li{
+    display: inline;   
+    color:grey;
+}
+li:hover{
+    color: white;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 200px;
+    height:320px;
+    text-align: center;
+    display: inline-block;
+}
+.ig{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border:none;
+    padding: 5px;
+}
+.contact{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding:30px;
+    margin-top: 10px;
+}
+.btn1{
+    background-color: yellow;
+    width: 500px;
+}
+.in{
+    margin-left: 40%;
+}
+.one{
+ margin-right:64.5%;
+ padding:10px;
+}
